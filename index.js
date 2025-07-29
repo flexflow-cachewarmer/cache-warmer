@@ -14,7 +14,7 @@ const PROXIES = {
 };
 
 const USER_AGENTS = {
-  id: "Flex&Flow-CacheWarmer-ID/1.0",
+  id: "FlexandFlow-CacheWarmer-ID/1.0",
 };
 
 const CLOUDFLARE_ZONE_ID = process.env.CLOUDFLARE_ZONE_ID;
